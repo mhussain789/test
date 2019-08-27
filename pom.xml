@@ -21,7 +21,6 @@
         <!-- Build an executable JAR -->
         <groupId>org.apache.maven.plugins</groupId>
          <artifactId>maven-jar-plugin</artifactId>
-        <maven.compiler.target>1.8</maven.compiler.target>
         <version>3.0.2</version>
         <configuration>
           <archive>
